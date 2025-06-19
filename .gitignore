@@ -1,0 +1,5 @@
+output/
+processed/
+spritesheets/
+*.zip
+*.tar.gz

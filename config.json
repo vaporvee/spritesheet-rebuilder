@@ -1,0 +1,10 @@
+{
+  "input_folder": "spritesheets",
+  "output_folder": "output",
+  "scale_factor": 64,
+  "target_padding": 2,
+  "output_columns": 3,
+  "output_rows": 2,
+  "sort_by_position": true,
+  "frame_repeat": 2
+}
