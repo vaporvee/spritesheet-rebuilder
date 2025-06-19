@@ -1,6 +1,6 @@
 # Spritesheet Frame Rebuilder
 
-Extract individual frames from spritesheet PNG images by detecting connected non-transparent regions and rebuild new spritesheets with options for scaling, padding, layout, and frame repetition.
+Fix individual frames from spritesheet PNG images by detecting connected non-transparent regions and rebuild new spritesheets with options for scaling, padding, layout, and frame repetition.
 
 ---
 
