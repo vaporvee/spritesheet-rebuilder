@@ -23,3 +23,6 @@ Requires [Python 3.7+](https://www.python.org/downloads/) and [Pillow](https://p
 ```bash
 pip install Pillow
 ```
+## Credits
+#### [@koyu](https://github.com/koyuawsmbrtn):
+ - Original script
